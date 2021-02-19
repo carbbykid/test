@@ -7,3 +7,7 @@ function alo(){
 function moi(){
     //heheh
 }
+
+function hehe(){
+    
+}
