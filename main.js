@@ -5,3 +5,6 @@ function main(){
 function moi(){
     //heheh
 }
+function hqhqw(){
+    //alo
+}
