@@ -4,3 +4,6 @@ function main(){
 function alo(){
     //adcdv
 }
+function moi(){
+    //heheh
+}
